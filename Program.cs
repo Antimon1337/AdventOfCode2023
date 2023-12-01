@@ -1,10 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
-String[] input = File.ReadAllLines("C:\\Projekte\\VSCode Test\\Day 1 - Trebuchet\\TestInput.txt");
+String[] input = File.ReadAllLines("/Users/fabiankrohn/Projects/Day 1 - Trebuchet/input.txt");
 String[] digits = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
+int zeile = 1;
 int summe = 0;
 
 foreach(String s in input){
+    Console.Write(zeile + ": " + s + " ");
+    zeile++;
     List<int> gefundenePositionen = new List<int>();
     int d1 = 0;
     int d2 = 0;
@@ -12,7 +15,6 @@ foreach(String s in input){
     foreach(String zahl in digits){
         if (s.Contains(zahl)){
             int ort = s.IndexOf(zahl);
-            //Console.WriteLine(ort);
             gefundenePositionen.Add(ort);
         }
     }
@@ -23,7 +25,7 @@ foreach(String s in input){
             gefundenePositionen.Add(i);
         }
     }
-
+    
     gefundenePositionen.Sort();
 
     d1 = GetIntAtPosition(s, gefundenePositionen.First());
