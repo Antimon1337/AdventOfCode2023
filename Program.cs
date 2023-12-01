@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-String[] input = File.ReadAllLines("/Users/fabiankrohn/Projects/Day 1 - Trebuchet/input.txt");
+String[] input = File.ReadAllLines("/Users/fabiankrohn/Projekte/AdventOfCode2023/input.txt");
 String[] digits = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
 
 int zeile = 1;
@@ -13,9 +13,12 @@ foreach(String s in input){
     int d2 = 0;
 
     foreach(String zahl in digits){
-        if (s.Contains(zahl)){
-            int ort = s.IndexOf(zahl);
-            gefundenePositionen.Add(ort);
+        int position = 0;
+        while(s.Substring(position).Contains(zahl)){
+            String subs = s.Substring(position);
+            position += subs.IndexOf(zahl);
+            gefundenePositionen.Add(position);
+            position += zahl.Length;
         }
     }
     

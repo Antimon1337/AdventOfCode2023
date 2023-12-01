@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fabiankrohn/Projects/Day 1 - Trebuchet/Day 1 - Trebuchet.csproj": {}
+    "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 1 - Trebuchet.csproj": {}
   },
   "projects": {
-    "/Users/fabiankrohn/Projects/Day 1 - Trebuchet/Day 1 - Trebuchet.csproj": {
+    "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 1 - Trebuchet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fabiankrohn/Projects/Day 1 - Trebuchet/Day 1 - Trebuchet.csproj",
+        "projectUniqueName": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 1 - Trebuchet.csproj",
         "projectName": "Day 1 - Trebuchet",
-        "projectPath": "/Users/fabiankrohn/Projects/Day 1 - Trebuchet/Day 1 - Trebuchet.csproj",
+        "projectPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 1 - Trebuchet.csproj",
         "packagesPath": "/Users/fabiankrohn/.nuget/packages/",
-        "outputPath": "/Users/fabiankrohn/Projects/Day 1 - Trebuchet/obj/",
+        "outputPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fabiankrohn/.nuget/NuGet/NuGet.Config"

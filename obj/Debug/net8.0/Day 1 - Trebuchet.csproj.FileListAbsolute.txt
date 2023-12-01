@@ -26,3 +26,18 @@ c:/Projekte/VSCode Test/Day 1 - Trebuchet/obj/Debug/net8.0/ref/Day 1 - Trebuchet
 /Users/fabiankrohn/Projects/Day 1 - Trebuchet/obj/Debug/net8.0/Day 1 - Trebuchet.pdb
 /Users/fabiankrohn/Projects/Day 1 - Trebuchet/obj/Debug/net8.0/Day 1 - Trebuchet.genruntimeconfig.cache
 /Users/fabiankrohn/Projects/Day 1 - Trebuchet/obj/Debug/net8.0/ref/Day 1 - Trebuchet.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/bin/Debug/net8.0/Day 1 - Trebuchet
+/Users/fabiankrohn/Projekte/AdventOfCode2023/bin/Debug/net8.0/Day 1 - Trebuchet.deps.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/bin/Debug/net8.0/Day 1 - Trebuchet.runtimeconfig.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/bin/Debug/net8.0/Day 1 - Trebuchet.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/bin/Debug/net8.0/Day 1 - Trebuchet.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.AssemblyInfo.cs
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.sourcelink.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/refint/Day 1 - Trebuchet.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/Day 1 - Trebuchet.genruntimeconfig.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/obj/Debug/net8.0/ref/Day 1 - Trebuchet.dll
