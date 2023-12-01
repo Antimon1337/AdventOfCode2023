@@ -1,0 +1,14 @@
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.AssemblyInfoInputs.cache
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.AssemblyInfo.cs
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.csproj.CoreCompileInputs.cache
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\bin\Debug\net8.0\Day 1 - Trebuchet.exe
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\bin\Debug\net8.0\Day 1 - Trebuchet.deps.json
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\bin\Debug\net8.0\Day 1 - Trebuchet.runtimeconfig.json
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\bin\Debug\net8.0\Day 1 - Trebuchet.dll
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\bin\Debug\net8.0\Day 1 - Trebuchet.pdb
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.dll
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\refint\Day 1 - Trebuchet.dll
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.pdb
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\Day 1 - Trebuchet.genruntimeconfig.cache
+c:\Projekte\VSCode Test\Day 1 - Trebuchet\obj\Debug\net8.0\ref\Day 1 - Trebuchet.dll
