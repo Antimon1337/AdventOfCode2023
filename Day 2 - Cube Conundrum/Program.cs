@@ -14,19 +14,24 @@ availableCubes.Add("green", 13);
 availableCubes.Add("blue", 14);
 
 
-Dictionary<String, int> shownCubesInGame = new Dictionary<string, int>();
-
 int summe = 0;
+int summepower = 0;
 
 foreach(String line in input){
     int gameID = int.Parse(line.Split(':')[0].Split(' ')[1]);
 
+    // Console.WriteLine("GameID: " + gameID);
     
     bool stillValid = true;
 
     String gameResult = line.Split(':')[1];
 
     String[] pullResults = gameResult.Split(';');
+
+    Dictionary<String, int> highestShownCubeColor = new Dictionary<string, int>();
+    highestShownCubeColor.Add("red", 0);
+    highestShownCubeColor.Add("blue", 0);
+    highestShownCubeColor.Add("green", 0);
 
     foreach(String pull in pullResults){
         //Console.WriteLine(pull);
@@ -45,7 +50,11 @@ foreach(String line in input){
 
             if(number > verfügbar){
                 stillValid = false;
-                break;
+            }
+
+            highestShownCubeColor.TryGetValue(color, out int highNumber);
+            if(number > highNumber){
+                highestShownCubeColor[color] = number;
             }
         }
 
@@ -55,8 +64,15 @@ foreach(String line in input){
         Console.WriteLine("GameID " + gameID + " ist ok!");
         summe += gameID;
     }
+    int produkt = 1;
+    foreach(int value in highestShownCubeColor.Values){
+        produkt *= value;
+    }
+    Console.WriteLine("Produkt: " + produkt);
+    summepower += produkt;
     //Console.WriteLine();
     //Console.WriteLine();
 }
 
-Console.WriteLine("Ergebnis: " + summe);
+Console.WriteLine("Ergebnis Part 1: " + summe);
+Console.WriteLine("Ergebnis Part 2: " + summepower);
