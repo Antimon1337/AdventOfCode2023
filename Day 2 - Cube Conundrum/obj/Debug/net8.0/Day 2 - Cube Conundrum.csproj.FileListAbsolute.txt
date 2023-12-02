@@ -1,0 +1,15 @@
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/bin/Debug/net8.0/Day 2 - Cube Conundrum
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/bin/Debug/net8.0/Day 2 - Cube Conundrum.deps.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/bin/Debug/net8.0/Day 2 - Cube Conundrum.runtimeconfig.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/bin/Debug/net8.0/Day 2 - Cube Conundrum.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/bin/Debug/net8.0/Day 2 - Cube Conundrum.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.AssemblyInfo.cs
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.sourcelink.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/refint/Day 2 - Cube Conundrum.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/Day 2 - Cube Conundrum.genruntimeconfig.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/Debug/net8.0/ref/Day 2 - Cube Conundrum.dll
