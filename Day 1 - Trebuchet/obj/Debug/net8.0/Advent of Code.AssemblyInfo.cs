@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Day 1 - Trebuchet")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Advent of Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543d5db8264be69ce68699ef2a181fc3e2f5db5d")]
-[assembly: System.Reflection.AssemblyProductAttribute("Day 1 - Trebuchet")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Day 1 - Trebuchet")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("Advent of Code")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Advent of Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 1 - Trebuchet", "Day 1 - Trebuchet.csproj", "{F85E4576-441A-47ED-AC59-C2A6F701B8FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 2 - Cube Conundrum", "Day 2 - Cube Conundrum.csproj", "{962A2E87-7013-4C4A-A57F-FBCAE4111719}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F85E4576-441A-47ED-AC59-C2A6F701B8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F85E4576-441A-47ED-AC59-C2A6F701B8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F85E4576-441A-47ED-AC59-C2A6F701B8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F85E4576-441A-47ED-AC59-C2A6F701B8FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{962A2E87-7013-4C4A-A57F-FBCAE4111719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962A2E87-7013-4C4A-A57F-FBCAE4111719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962A2E87-7013-4C4A-A57F-FBCAE4111719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962A2E87-7013-4C4A-A57F-FBCAE4111719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C37F5113-9D42-4828-B151-2FB6474DC267}
+		SolutionGuid = {29E62448-CC82-4D31-A214-6D26E3D6E8DA}
 	EndGlobalSection
 EndGlobal
