@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.csproj",
+      "projectUniqueName": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.csproj",
       "projectName": "Day 2 - Cube Conundrum",
-      "projectPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.csproj",
+      "projectPath": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 2 - Cube Conundrum/Day 2 - Cube Conundrum.csproj",
       "packagesPath": "/Users/fabiankrohn/.nuget/packages/",
-      "outputPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 2 - Cube Conundrum/obj/",
+      "outputPath": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 2 - Cube Conundrum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fabiankrohn/.nuget/NuGet/NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 2 - Cube Conundrum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1bcf716917fc2df79e47b4593f70a6ee334d7bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae712a607249e1ef1bcdae9447b476dbe2ad2bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 2 - Cube Conundrum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 2 - Cube Conundrum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
