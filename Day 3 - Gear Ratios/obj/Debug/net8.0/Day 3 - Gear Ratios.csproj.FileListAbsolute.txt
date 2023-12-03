@@ -1,0 +1,15 @@
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/bin/Debug/net8.0/Day 3 - Gear Ratios
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/bin/Debug/net8.0/Day 3 - Gear Ratios.deps.json
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/bin/Debug/net8.0/Day 3 - Gear Ratios.runtimeconfig.json
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/bin/Debug/net8.0/Day 3 - Gear Ratios.dll
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/bin/Debug/net8.0/Day 3 - Gear Ratios.pdb
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.AssemblyInfo.cs
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.sourcelink.json
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.dll
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/refint/Day 3 - Gear Ratios.dll
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.pdb
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/Day 3 - Gear Ratios.genruntimeconfig.cache
+/Users/fabiankrohn/Projects/AdventOfCode2023/Day 3 - Gear Ratios/obj/Debug/net8.0/ref/Day 3 - Gear Ratios.dll
