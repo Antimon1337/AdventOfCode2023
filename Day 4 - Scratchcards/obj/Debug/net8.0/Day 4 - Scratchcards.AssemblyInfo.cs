@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 4 - Scratchcards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36e93943d06a3da88b0662053a0de485e8cf7139")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 4 - Scratchcards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 4 - Scratchcards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
