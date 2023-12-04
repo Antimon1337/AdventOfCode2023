@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4 - Scratchcards", "Day 4 - Scratchcards\Day 4 - Scratchcards.csproj", "{B7FCB50E-E2CD-48E3-8C8D-7C3C1187358E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 4 - Scratchcards", "Day 4 - Scratchcards\Day 4 - Scratchcards.csproj", "{0784E8C0-6191-4AB3-B762-BBD484C43B50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7FCB50E-E2CD-48E3-8C8D-7C3C1187358E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7FCB50E-E2CD-48E3-8C8D-7C3C1187358E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7FCB50E-E2CD-48E3-8C8D-7C3C1187358E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7FCB50E-E2CD-48E3-8C8D-7C3C1187358E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0784E8C0-6191-4AB3-B762-BBD484C43B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0784E8C0-6191-4AB3-B762-BBD484C43B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0784E8C0-6191-4AB3-B762-BBD484C43B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0784E8C0-6191-4AB3-B762-BBD484C43B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
