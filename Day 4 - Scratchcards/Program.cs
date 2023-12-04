@@ -1,4 +1,9 @@
-﻿String[] input = File.ReadAllLines("/Users/fabiankrohn/Projects/AdventOfCode2023/Day 4 - Scratchcards/input.txt");
+﻿List<String> input = File.ReadAllLines("/Users/fabiankrohn/Projects/AdventOfCode2023/Day 4 - Scratchcards/input.txt").ToList();
+
+List<int> copies = new List<int>();
+foreach(String s in input){
+    copies.Add(1);
+}
 
 int summe = 0;
 foreach(String card in input){
@@ -17,14 +22,29 @@ foreach(String card in input){
         myNumbers.Add(int.Parse(number));
     }
 
-    int gewonneneZahlen = -1;
+    //Part for Part 1
+    // int gewonneneZahlen = -1;
+    int gewonneneZahlen = 0;
 
-    foreach(int nummer in myNumbers){
-        if(winningNumbers.Contains(nummer)){
+    //Part of Part 1
+    // foreach(int nummer in myNumbers){
+    //     if(winningNumbers.Contains(nummer)){
+    //         gewonneneZahlen++;
+    //     }
+    // }
+    for(int j = 0; j < myNumbers.Count; j++){
+        if(winningNumbers.Contains(myNumbers[j])){
             gewonneneZahlen++;
+            
+            for(int i = 0; i < copies[input.IndexOf(card)]; i++){
+                copies[input.IndexOf(card)+gewonneneZahlen] += 1;
+            }
         }
     }
-    summe += (int)Math.Pow(2, gewonneneZahlen);
+    //Part of Part 1
+    //summe += (int)Math.Pow(2, gewonneneZahlen);
 }
-
+foreach(int copy in copies){
+    summe += copy;
+}
 Console.WriteLine(summe);
