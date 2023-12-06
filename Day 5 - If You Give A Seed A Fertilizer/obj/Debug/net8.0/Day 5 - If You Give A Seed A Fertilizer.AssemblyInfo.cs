@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 5 - If You Give A Seed A Fertilizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a805c204ec453dbee588ddfbf3bb2678eb64f62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8e9952ebd7285ae37a33378b00746c9e9134ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 5 - If You Give A Seed A Fertilizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 5 - If You Give A Seed A Fertilizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
