@@ -1,0 +1,15 @@
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/bin/Debug/net8.0/Day 6 - Wait For It
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/bin/Debug/net8.0/Day 6 - Wait For It.deps.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/bin/Debug/net8.0/Day 6 - Wait For It.runtimeconfig.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/bin/Debug/net8.0/Day 6 - Wait For It.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/bin/Debug/net8.0/Day 6 - Wait For It.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.AssemblyInfo.cs
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.sourcelink.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/refint/Day 6 - Wait For It.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/Day 6 - Wait For It.genruntimeconfig.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/Debug/net8.0/ref/Day 6 - Wait For It.dll

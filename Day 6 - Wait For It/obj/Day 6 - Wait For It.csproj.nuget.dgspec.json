@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj": {}
+    "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj": {}
   },
   "projects": {
-    "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj": {
+    "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj",
+        "projectUniqueName": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj",
         "projectName": "Day 6 - Wait For It",
-        "projectPath": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj",
+        "projectPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj",
         "packagesPath": "/Users/fabiankrohn/.nuget/packages/",
-        "outputPath": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 6 - Wait For It/obj/",
+        "outputPath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fabiankrohn/.nuget/NuGet/NuGet.Config"
