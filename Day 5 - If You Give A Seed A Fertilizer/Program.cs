@@ -1,6 +1,8 @@
-﻿String[] input = File.ReadAllLines("C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 5 - If You Give A Seed A Fertilizer\\testInput.txt");
+﻿using System.Reflection.Metadata;
 
-Dictionary<String, int> sectionNames = new Dictionary<string, int>
+String[] input = File.ReadAllLines("/Users/fabiankrohn/Projects/AdventOfCode2023/Day 5 - If You Give A Seed A Fertilizer/input.txt");
+
+Dictionary<String, long> sectionNames = new Dictionary<string, long>
 {
     { "seeds", 0 },
     { "seed-to-soil", 1 },
@@ -11,6 +13,8 @@ Dictionary<String, int> sectionNames = new Dictionary<string, int>
     { "temperature-to-humidity", 6 },
     { "humidity-to-location", 7 }
 };
+
+Dictionary<long, long> seed2dest = new Dictionary<long, long>();
 
 List<List<String>> sections = new List<List<String>>();
 
@@ -32,31 +36,48 @@ foreach(String line in input){
 }
 sections.Add(section);
 
-foreach(String seed in sections[0][0].Split(' ')){
-    bool seedRemap = false;
-    int seedID = int.Parse(seed);
-    foreach(String soilMap in sections[1]){
-        int source = int.Parse(soilMap.Split(' ')[1]);
-        int dest = int.Parse(soilMap.Split(' ')[0]);
-        int range = int.Parse(soilMap.Split(' ')[2]);
+long anzahl = 0;
+long nummer = 0;
 
-        if(seedID >= source && seedID < source + range){
-            for(int i = 0; i < range; i++){
-                if(seedID == source + i){
-                    Console.WriteLine("Seed " + seedID + " gehört zu Soil " + (dest + i));
-                    seedRemap = true;
-                    break;
+for(int s = 0; s<sections[0][0].Split(' ').Length; s+=2){
+    long seed = long.Parse(sections[0][0].Split(' ')[s]);
+    long seedRange = long.Parse(sections[0][0].Split(' ')[s+1]);
+    anzahl += seedRange;
+    for(long j = 0; j < seedRange; j++){
+        long seedID = seed + j;
+        seed2dest.Add(seedID, seedID);
+        for(int m = 1; m < sections.Count; m++){
+            foreach(String map in sections[m]){
+                long source = long.Parse(map.Split(' ')[1]);
+                long dest = long.Parse(map.Split(' ')[0]);
+                long range = long.Parse(map.Split(' ')[2]);
+
+                if(seed2dest[seedID] >= source && seed2dest[seedID] < source + range){
+                    bool alreadyRemapped = false;
+                    for(int i = 0; i < range; i++){
+                        if(seed2dest[seedID] == source + i){
+                            seed2dest[seedID] = dest + i;
+                            alreadyRemapped = true;
+                            break;
+                        }
+                    }
+                    if(alreadyRemapped) break;
                 }
             }
         }
-    }
-    if(!seedRemap){
-        Console.WriteLine("Seed " + seedID + " gehört zu Soil " + seedID);
-    }else{
-        seedRemap = false;
+        nummer++;
+        Console.WriteLine("Seed " + seedID + " gehört zu " + seed2dest[seedID]);
+        Console.WriteLine("Calculated " + nummer + " of " + anzahl + " seeds");
     }
 }
 
+long lowestNumber = long.MaxValue;
 
+foreach(KeyValuePair<long, long> entry in seed2dest){
+    //Console.WriteLine("Seed " + entry.Key + " gehört zu " + entry.Value);
+    if(entry.Value < lowestNumber){
+        lowestNumber = entry.Value;
+    }
+}
 
-Console.WriteLine("HI!");
+Console.WriteLine("Die Location mit dem geringsten Wert ist " + lowestNumber);
