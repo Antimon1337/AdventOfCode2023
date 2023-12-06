@@ -3,7 +3,6 @@
 String[] input = File.ReadAllLines("/Users/fabiankrohn/Projects/AdventOfCode2023/Day 5 - If You Give A Seed A Fertilizer/input.txt");
 
 Dictionary<String, long> sectionNames = new Dictionary<string, long>
-Dictionary<String, long> sectionNames = new Dictionary<string, long>
 {
     { "seeds", 0 },
     { "seed-to-soil", 1 },
@@ -14,8 +13,6 @@ Dictionary<String, long> sectionNames = new Dictionary<string, long>
     { "temperature-to-humidity", 6 },
     { "humidity-to-location", 7 }
 };
-
-Dictionary<long, long> seed2dest = new Dictionary<long, long>();
 
 Dictionary<long, long> seed2dest = new Dictionary<long, long>();
 
