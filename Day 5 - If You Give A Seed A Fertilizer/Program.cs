@@ -12,5 +12,6 @@ foreach(String line in input){
     }
     section.Add(line);
 }
+sections.Add(section);
 
 Console.WriteLine("HI!");
