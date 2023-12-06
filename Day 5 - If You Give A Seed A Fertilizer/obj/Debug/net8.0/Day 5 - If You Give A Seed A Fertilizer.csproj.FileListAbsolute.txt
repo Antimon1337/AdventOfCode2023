@@ -1,0 +1,15 @@
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\bin\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.exe
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\bin\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.deps.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\bin\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.runtimeconfig.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\bin\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\bin\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.pdb
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.AssemblyInfoInputs.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.AssemblyInfo.cs
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.csproj.CoreCompileInputs.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.sourcelink.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\refint\Day 5 - If You Give A Seed A Fertilizer.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.pdb
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\Day 5 - If You Give A Seed A Fertilizer.genruntimeconfig.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 5 - If You Give A Seed A Fertilizer\obj\Debug\net8.0\ref\Day 5 - If You Give A Seed A Fertilizer.dll

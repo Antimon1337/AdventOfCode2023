@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vvQNphuJ5LL30lqAXltoXxhuZE6nY2f2wA6XiRJL5dO5VjFgPm4lMu85wSonUs6PU/MUVIo9dqNlHEhJDK8SjA==",
+  "dgSpecHash": "vE1L9alr96/agrHi84Ejqfmmbq/8sf4awu3CgK0ewPERwhzDPuicVlpBo0+rHEziqEoKPn3X4Ltf3/3wClncMQ==",
   "success": true,
-  "projectFilePath": "/Users/fabiankrohn/Projects/AdventOfCode2023/Day 4 - Scratchcards/Day 4 - Scratchcards.csproj",
+  "projectFilePath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 4 - Scratchcards\\Day 4 - Scratchcards.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

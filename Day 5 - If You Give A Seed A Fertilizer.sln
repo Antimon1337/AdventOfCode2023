@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 5 - If You Give A Seed A Fertilizer", "Day 5 - If You Give A Seed A Fertilizer\Day 5 - If You Give A Seed A Fertilizer.csproj", "{01066AAD-431D-4416-B3C3-8819D04B839C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01066AAD-431D-4416-B3C3-8819D04B839C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01066AAD-431D-4416-B3C3-8819D04B839C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01066AAD-431D-4416-B3C3-8819D04B839C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01066AAD-431D-4416-B3C3-8819D04B839C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
