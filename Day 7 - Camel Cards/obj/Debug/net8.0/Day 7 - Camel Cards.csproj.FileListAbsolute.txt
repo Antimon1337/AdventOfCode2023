@@ -1,0 +1,15 @@
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\bin\Debug\net8.0\Day 7 - Camel Cards.exe
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\bin\Debug\net8.0\Day 7 - Camel Cards.deps.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\bin\Debug\net8.0\Day 7 - Camel Cards.runtimeconfig.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\bin\Debug\net8.0\Day 7 - Camel Cards.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\bin\Debug\net8.0\Day 7 - Camel Cards.pdb
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.AssemblyInfoInputs.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.AssemblyInfo.cs
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.csproj.CoreCompileInputs.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.sourcelink.json
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\refint\Day 7 - Camel Cards.dll
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.pdb
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\Day 7 - Camel Cards.genruntimeconfig.cache
+c:\Users\kro\Documents\Projekte\AdventOfCode2023\Day 7 - Camel Cards\obj\Debug\net8.0\ref\Day 7 - Camel Cards.dll

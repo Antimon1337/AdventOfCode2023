@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj": {}
+    "c:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj": {
+    "c:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
+        "projectUniqueName": "c:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
         "projectName": "Day 7 - Camel Cards",
-        "projectPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
+        "projectPath": "c:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
         "packagesPath": "C:\\Users\\kro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\obj\\",
+        "outputPath": "c:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
