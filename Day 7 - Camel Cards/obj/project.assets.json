@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 6 - Wait For It\\Day 6 - Wait For It.csproj",
-      "projectName": "Day 6 - Wait For It",
-      "projectPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 6 - Wait For It\\Day 6 - Wait For It.csproj",
+      "projectUniqueName": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
+      "projectName": "Day 7 - Camel Cards",
+      "projectPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\Day 7 - Camel Cards.csproj",
       "packagesPath": "C:\\Users\\kro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 6 - Wait For It\\obj\\",
+      "outputPath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 7 - Camel Cards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

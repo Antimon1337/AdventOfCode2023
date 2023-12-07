@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXMlBkeSe2OCb2+qfrDtw+wVECcO5PbeswGuMl9hoJW74plC59ezQGatzb+H/zRnucQyJsuNhVuZ61jkcGoh3w==",
+  "dgSpecHash": "zX2sI3rIqO78FMe6vvga81V6QxKUxeqFQyUrk6DzIU5EVco5g45UwiWQV3Tu5yMkpDEoXXb9nQAXoHFWHJUqdQ==",
   "success": true,
-  "projectFilePath": "/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 6 - Wait For It/Day 6 - Wait For It.csproj",
+  "projectFilePath": "C:\\Users\\kro\\Documents\\Projekte\\AdventOfCode2023\\Day 6 - Wait For It\\Day 6 - Wait For It.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
