@@ -1,0 +1,15 @@
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/bin/Debug/net8.0/Day 8 - Hauted Wasteland
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/bin/Debug/net8.0/Day 8 - Hauted Wasteland.deps.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/bin/Debug/net8.0/Day 8 - Hauted Wasteland.runtimeconfig.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/bin/Debug/net8.0/Day 8 - Hauted Wasteland.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/bin/Debug/net8.0/Day 8 - Hauted Wasteland.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.AssemblyInfo.cs
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.sourcelink.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/refint/Day 8 - Hauted Wasteland.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/Day 8 - Hauted Wasteland.genruntimeconfig.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 8 - Hauted Wasteland/obj/Debug/net8.0/ref/Day 8 - Hauted Wasteland.dll
