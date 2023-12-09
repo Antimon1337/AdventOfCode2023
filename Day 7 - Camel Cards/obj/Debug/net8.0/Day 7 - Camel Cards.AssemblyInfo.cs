@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Day 7 - Camel Cards")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5bf3d03f88e0b7fce5484a269ee27fe27465669")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af9f758ed46dceca448370b70a45c3a0b47f783e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Day 7 - Camel Cards")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Day 7 - Camel Cards")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
