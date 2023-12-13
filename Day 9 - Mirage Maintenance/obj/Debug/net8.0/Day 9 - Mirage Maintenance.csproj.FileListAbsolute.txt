@@ -1,0 +1,15 @@
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/bin/Debug/net8.0/Day 9 - Mirage Maintenance
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/bin/Debug/net8.0/Day 9 - Mirage Maintenance.deps.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/bin/Debug/net8.0/Day 9 - Mirage Maintenance.runtimeconfig.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/bin/Debug/net8.0/Day 9 - Mirage Maintenance.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/bin/Debug/net8.0/Day 9 - Mirage Maintenance.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.AssemblyInfoInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.AssemblyInfo.cs
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.csproj.CoreCompileInputs.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.sourcelink.json
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/refint/Day 9 - Mirage Maintenance.dll
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.pdb
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/Day 9 - Mirage Maintenance.genruntimeconfig.cache
+/Users/fabiankrohn/Projekte/AdventOfCode2023/Day 9 - Mirage Maintenance/obj/Debug/net8.0/ref/Day 9 - Mirage Maintenance.dll
